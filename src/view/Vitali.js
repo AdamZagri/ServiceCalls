@@ -4,7 +4,7 @@ var Vitali = {
     view: function () {
         return m('div', [
             m('p', "Vitali's component"),
-            m('p', "Vitali's Second component")
+            m('p', "Vitali's")
         ])
     }
 }
